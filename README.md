@@ -1,2 +1,2 @@
-# Tommy_blog_Hexo
+# Tommy Whao
 my blog
